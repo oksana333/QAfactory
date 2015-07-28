@@ -56,6 +56,9 @@ public class Main {
         for ( int a11= 0; a11< 10; a11= a11 + 5){
             System.out.println (a11);
             //for  ( String z = "Hello Class" + " " + "Hello Class")
+
+
+
             }
         }
     }
