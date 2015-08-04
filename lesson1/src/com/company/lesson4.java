@@ -34,7 +34,7 @@ public class lesson4 {
     }
     public static boolean taskThree (int [] arr1, int [] arr2)
     {
-
+        return true;
     }
 }
 
